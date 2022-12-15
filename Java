@@ -1,0 +1,201 @@
+public class Main{
+	public static void main(String[] args)
+	System.out.println("Hello World");
+}
+
+Mobile application
+Desktop application
+Web application
+Web server and application servers
+Games
+Database connection
+And much, much more!
+
+public static void main(String[] args)
+
+System.out.println
+
+System.out.println("Hello World");
+System.out.println("I am learning Java");
+System.out.println("It is awesome");
+
+System.out.println("This sentence will work!");
+
+
+System.out.println(3);
+System.out.println(358);
+System.out.println(50000);
+
+
+String name = "Tharindu";
+System.out.println(name);
+
+
+String firstName = "John";
+String lastName = "Doe";
+String fullName = firstName + lastName;
+System.out.println(fullName);
+
+
+int x = 5;
+int y = 10;
+
+String.out.println(x + y);
+
+
+
+int minutesPerHour = 60;
+int m = 60;
+
+public class Main{
+ public static void main(String[] args){
+  int minutesPerHour = 60;
+  
+  int m = 60;
+
+  System.out.println(PerHour);
+  System.out.println(m);
+ }
+}
+
+
+int myNum = 5;
+float myFloatNum = 5.9876;
+char myLetter = 'D';
+boolean myBool = true;
+String myText = "Hello";
+
+
+
+JAVA OPERATORS
+
+int x = 100 + 50;
+
+System.out.println(x);
+
+
+Arithmatic operators
+Assignment operators
+Comparison operators
+Logical operators
+Bitwise operators
+
+
+Arithmatic Operators
++
+_
+*
+/
+%
+++
+--
+
+Assignment Operators
+
+=
++=
+-=
+*=
+/=
+%=
+&=
+|=
+^=
+>>=
+<<=
+
+Java Comparison Operators
+
+==
+!=
+>
+<
+>=
+<=
+
+
+Java Logical Operators
+
+&&
+||
+!
+
+
+
+
+\n = New Line
+\r = Carriage Return
+\t = Tab
+\b = Backspace
+\f = Form Feed
+
+
+
+boolean isJavaFun = true;
+boolean isFishTasty = false;
+System.out.println(isFishTasty);
+System.out.println(isJavaFun);
+
+
+int myAge = 25;
+int votingAge = 18;
+
+if(myAge >= votingAge) {
+ System.out.println("Old enough to vote ");
+}
+
+
+Java Conditions and IF Statements
+
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+Equal to: a == b
+Not equal to: a != b
+
+
+if (20 > 18) {
+ System.out.println("20 is greater than 18");
+}
+
+int x = 20;
+int y = 18;
+if(x > y) {
+  System.out.println(" x is greater than y");
+}
+
+
+int time = 20;
+if (time < 18) {
+  System.out.println("Yes");
+} else {
+  System.out.println("No");
+}
+
+// OUTPUT IS = No;
+
+
+
+The else if statement
+
+use the else if statement to specify a new condition if the first condition is false.
+
+if (condition 1) {
+  // block of code to be executed if conditiona1 id true
+} else if (condition 2) {
+  // block of code to be executed if the condition1 is false and condition2 is true
+}else {
+  // block of code to be executed if the condition1 is false and condition2 is false
+}
+
+
+
+int time = 22;
+if (time < 10) {
+ System.out.println("Good morning");
+} else if (time < 18) {
+ System.out.println("Good Day");
+} else {
+ System.out.println("Good Evening");
+} // Output is : "Good Evening"
