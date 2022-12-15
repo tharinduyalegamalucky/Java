@@ -1,0 +1,8 @@
+Short Hand If.....Else
+
+varible = (condition) ? expressionTrue : expressionFalse
+
+
+int time = 20;
+String result = (time < 18) ? "Good Day" : "Good Evening";
+System.out.println(result);
